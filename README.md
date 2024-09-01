@@ -1,6 +1,6 @@
 # Shapely
 
-**Shapely** on Python teek, mis pakub lihtsat ja tõhusat viisi geomeetriliste andmete töötlemiseks ja analüüsimiseks. See teek on ideaalne tööriist ruumiliste andmete, näiteks punktide, joonte ja polügoonide loomiseks, manipulatsiooniks ja analüüsimiseks.
+**Shapely** on Python teek, mis pakub lihtsat ja tõhusat viisi geomeetriliste andmete töötlemiseks ja analüüsimiseks. See teek on ideaalne tööriist 2-D andmete, näiteks punktide, joonte ja polügoonide loomiseks, manipulatsiooniks ja analüüsimiseks.
 
 ## Põhiomadused
 
