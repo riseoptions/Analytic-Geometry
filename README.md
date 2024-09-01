@@ -14,6 +14,9 @@
 
 
 
+
+
+
 # --- Shapely Meetodite Loetelu ---
 
 # Geomeetria loomine
@@ -85,6 +88,7 @@ buffered_geom = geom.buffer(distance)                         # Loob geom-i ümb
 
 # Koordinaatide pööramine
 rotated_geom = geom.exterior.rotate(angle=90, origin=(0, 0))  # Pöörab geom-i määratud nurga ümber päritolu
+
 
 
 
