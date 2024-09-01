@@ -22,6 +22,14 @@ from shapely.geometry import (
     Point, LineString, Polygon, MultiPoint,
     MultiLineString, MultiPolygon, GeometryCollection
 )
+
+
+
+from shapely.ops import (
+    unary_union, nearest_points, cascaded_union,
+    split, snap, linemerge
+)
+
 ```
 
 
